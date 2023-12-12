@@ -1,0 +1,11 @@
+streamlit
+ctransformers
+langchain
+streamlit-chat
+PyPDF2
+chromadb
+sentence-transformers
+accelerate
+huggingface-hub
+torch
+InstructorEmbedding
